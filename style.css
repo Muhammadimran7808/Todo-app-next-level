@@ -55,7 +55,7 @@ body {
     background: transparent;
     padding: 0;
     border: none;
-    /* cursor: none; */
+    cursor: pointer;
 }
 
 /* button styling */
